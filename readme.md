@@ -1,1 +1,1 @@
-https://morawskiadam.github.io/goit-makup-hw-01/
+https://morawskiadam.github.io/goit-markup-hw-01/
